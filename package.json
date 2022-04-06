@@ -1,0 +1,17 @@
+{
+  "name": "dimon",
+  "version": "1.0.0",
+  "description": "AsAsFans - 专属于一个魂儿的App",
+  "author": "Layerdrops",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.3.0",
+    "nuxt": "^2.15.8"
+  }
+}
