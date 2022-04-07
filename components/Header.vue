@@ -1,5 +1,5 @@
 <template>
-  <header class="site-header site-header__header-one">
+  <header class="site-header site-header__header-one" id="header">
     <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
       <div class="container clearfix">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -37,7 +37,7 @@
               <a href="#screenshots">实机演示</a>
             </li>
             <li class="scrollToLink">
-              <a href="#news">关于我们</a>
+              <a href="#footer">关于我们</a>
               <!-- <ul class="sub-menu">
                 <li><nuxt-link to="/blog">News Page</nuxt-link></li>
                 <li><nuxt-link to="/blog-details">News Details</nuxt-link></li>
@@ -175,7 +175,7 @@
           OnePageMenuScroll();
 
         });
-
+      
       }
     }
 </script>
