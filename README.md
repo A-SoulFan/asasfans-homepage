@@ -1,12 +1,14 @@
-# dimon
+# 简介
 
-> Dimon - Vue Nuxt Software App Landing Page Template
+> AsAsFans--属于一个魂儿们的app
 
 ## Build Setup
 
-``` bash
+``` 
 # install dependencies
 $ npm install
+$ npm install nuxt
+
 
 # serve with hot reload at localhost:3000
 $ npm run dev
