@@ -1,10 +1,10 @@
-# dimon
+# 简介
 
 > AsAsFans--属于一个魂儿们的app
 
 ## Build Setup
 
-``` bash
+``` 
 # install dependencies
 $ npm install
 $ npm install nuxt
