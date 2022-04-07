@@ -14,7 +14,7 @@
             <h3 class="banner-one__title">独属于 <br> <span>一个魂儿</span> 的 <br> App</h3><!-- /.banner-one__title -->
             <p class="banner-one__text">"一个魂儿"系A-SOUL女子偶像团体粉丝名 <br> 本app非商业用途，仅提供A-soul及相关社区服务 <br> 官方B站：《A-SOUL_Official》、抖音：《五个魂儿啊》</p>
             <!-- /.banner-one__text -->
-            <a href="#" class="banner-one__btn thm-btn "><span>开始使用</span></a><!-- /.thm-btn -->
+            <a href="#screenshots"  class=" banner-one__btn thm-btn " ><span >开始使用</span></a><!-- /.thm-btn -->
           </div><!-- /.banner-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->
@@ -23,6 +23,8 @@
 </template>
 
 <script>
+    import Header from "./HeaderTwo.vue";
+    components: {Header}
     export default {
       name: "BannerTwo"
     }
