@@ -17,10 +17,10 @@
           <ul class=" one-page-scroll-menu navigation-box">
             <li class="current scrollToLink">
               <a href="#">主页</a>
-              <ul class="sub-menu">
+              <!-- <ul class="sub-menu">
                 <li><a href="/">主页 01</a></li>
                 <li><a href="/index-2">主页 02</a></li>
-              </ul>
+              </ul> -->
             </li>
             <li class="scrollToLink">
               <a href="#features">软件特色</a>
@@ -37,7 +37,7 @@
               <a href="#screenshots">实机演示</a>
             </li>
             <li class="scrollToLink">
-              <a href="#news">关于我们</a>
+              <a href="#footer">关于我们</a>
               <!-- <ul class="sub-menu">
                 <li><nuxt-link to="/blog">News Page</nuxt-link></li>
                 <li><nuxt-link to="/blog-details">News Details</nuxt-link></li>
