@@ -12,7 +12,7 @@
                 <p class="footer-widget__contact"><a href="mailto:needhelp@example.com"></a>
                 <p class="footer-widget__contact">独属于一个魂的APP，有需求可以联系我们 
                   <a href="https://space.bilibili.com/1442421278?from=search&seid=13622115856159720665&spm_id_from=333.337.0.0" target="blank">
-                  @ProjectASF</a>有Bug？请前往<a href="https://git.asf.ink/A-SoulFan/as-as-fans" target="blank">我们的自托管仓库</a>开启工单。
+                  @ProjectASF</a>。有Bug？请前往<a href="https://git.asf.ink/A-SoulFan/as-as-fans" target="blank">我们的自托管仓库</a>开启工单。
                    <br> </p><!-- /.footer-widget__contact -->
               </div><!-- /.footer-widget -->
             </div><!-- /.col-lg-2 -->
