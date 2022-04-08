@@ -14,7 +14,7 @@
     },
     head(){
       return {
-        title: "AsAsFans - 专属于一个魂儿的App"
+        title: "AsAsFans - 独属于一个魂儿的App"
       }
     }
 

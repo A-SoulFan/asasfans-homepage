@@ -1,6 +1,6 @@
 <template>
   <section class="app-shot-one" id="screenshots">
-    <img src="/assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
+    <!-- <img src="/assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" /> -->
     <div class="container-fluid">
       <div class="block-title text-center">
         <h2 class="block-title__title"> <br> <span></span> 实机演示</h2><!-- /.block-title__title -->
