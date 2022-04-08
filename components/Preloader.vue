@@ -1,6 +1,6 @@
 <template>
   <div class="preloader">
-    <img src="/assets/images/resources/preloader.png" class="preloader__image" alt="">
+    <!-- <img src="/assets/images/resources/preloader.png" class="preloader__image" alt=""> -->
   </div>
 </template>
 
