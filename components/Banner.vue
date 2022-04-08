@@ -15,8 +15,10 @@
             <p class="banner-one__text">"一个魂儿"系A-SOUL女子偶像团体粉丝名 <br> 本app非商业用途，仅提供A-soul及相关社区服务 <br> 官方B站：《A-SOUL_Official》、抖音：《五个魂儿啊》</p>
             <!-- /.banner-one__text -->
             <div   class=" banner-one__btn thm-btn " @click="scrollPage()"  >
-              <span>开始使用</span></div><!-- /.thm-btn -->
-          </div><!-- /.banner-one__content -->
+              <span>扫码下载</span>
+              </div><!-- /.thm-btn -->
+                <img class="banner-one_image" src='/assets/images/resources/asasfansdownload(6).png'/>
+            </div><!-- /.banner-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
@@ -28,11 +30,11 @@
     export default {
       name: "BannerTwo",
        methods: {
-		    scrollPage(){
-    //index与循环的index对应可自由设置动态获取
-   const PageId = document.querySelector('#features' )
-   PageId.scrollIntoView({ behavior:"smooth", block: "center", inline: "start"})
-}
+		    scrollPage(){ 
+          //index与循环的index对应可自由设置动态获取
+        const PageId = document.querySelector('#pricing' )
+        PageId.scrollIntoView({ behavior:"smooth", block: "center", inline: "start"})
+      }
 
     }
     }
