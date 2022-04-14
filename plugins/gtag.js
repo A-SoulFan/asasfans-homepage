@@ -3,7 +3,7 @@ import VueGtag from 'vue-gtag'
 
 Vue.use(VueGtag, {
   config: {
-    id: 'G-C2M0S2QPWX'
+    id: 'G-C2M0S2QPWX，G-HTJP3EPEBG'
   }
 })
 
@@ -36,7 +36,7 @@ Vue.use(VueGtag, {
   /*
    ** 当前页的访问统计
    */
-  ga('create', 'G-C2M0S2QPWX', 'auto')
+  ga('create', 'G-C2M0S2QPWX，G-HTJP3EPEBG', 'auto')
 }
 
 export default ({ app: { router }, store }) => {
