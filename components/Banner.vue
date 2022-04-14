@@ -17,7 +17,7 @@
             <div   class=" banner-one__btn thm-btn " @click="scrollPage()"  >
               <span>扫码下载</span>
               </div><!-- /.thm-btn -->
-                <img class="banner-one_image" src='/assets/images/resources/asasfansdownload(6).png'/>
+                <img class="banner-one_image" src='/assets/images/resources/asasfansnew.png' style="width: 200px;height: 200px;"/>
             </div><!-- /.banner-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->
