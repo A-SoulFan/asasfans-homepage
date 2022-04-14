@@ -60,15 +60,20 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    {  src: '../plugins/gtag.js', ssr: false  }
+    {  src: '@/plugins/gtag.js', ssr: false  }
   ],
   /*
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    '@ nuxtjs/google-analytics'
+    '@nuxtjs/google-analytics'
   ],
-  谷歌分析:{id:'G-C2M0S2QPWX'},
+  googleAnalytics:{id:'G-C2M0S2QPWX'},
+  dev:testingAnalytics ? true: process.env.NODE_ENV !=='production',
+  debug: {
+    enabled: true,
+    sendHitTask: true
+  },
   /*
   ** Nuxt.js modules
   */

@@ -1,3 +1,12 @@
+import Vue from 'vue'
+import VueGtag from 'vue-gtag'
+
+Vue.use(VueGtag, {
+  config: {
+    id: 'G-C2M0S2QPWX'
+  }
+})
+
 /*
  ** 只在生产模式的客户端中使用
  */
