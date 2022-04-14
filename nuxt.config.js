@@ -69,7 +69,7 @@ export default {
     '@nuxtjs/google-analytics'
   ],
   googleAnalytics:{id:'G-C2M0S2QPWX'},
-  dev:testingAnalytics ? true: process.env.NODE_ENV !=='production',
+  // dev:testingAnalytics ? true: process.env.NODE_ENV !=='production',
   debug: {
     enabled: true,
     sendHitTask: true
