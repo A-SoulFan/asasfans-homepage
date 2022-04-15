@@ -7,6 +7,11 @@ Vue.use(VueGtag, {
   }
 })
 
+Vue.use(VueGtag, {
+  config: {
+    id:'G-LG26T96L7Q'
+  }
+})
 /*
  ** 只在生产模式的客户端中使用
  */
@@ -37,6 +42,7 @@ Vue.use(VueGtag, {
    ** 当前页的访问统计
    */
   ga('create', 'G-C2M0S2QPWX', 'auto')
+  ga('create', 'G-LG26T96L7Q', 'auto')
 }
 
 export default ({ app: { router }, store }) => {

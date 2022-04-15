@@ -69,6 +69,7 @@ export default {
     '@nuxtjs/google-analytics'
   ],
   googleAnalytics:{id:'G-C2M0S2QPWX'},
+  googleAnalytics:{id:'G-HTJP3EPEBG'},
   // dev:testingAnalytics ? true: process.env.NODE_ENV !=='production',
   debug: {
     enabled: true,
