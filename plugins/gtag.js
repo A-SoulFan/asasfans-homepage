@@ -9,7 +9,7 @@ Vue.use(VueGtag, {
 
 Vue.use(VueGtag, {
   config: {
-    id:'G-LG26T96L7Q'
+    id:'G-HTJP3EPEBG'
   }
 })
 /*
@@ -42,7 +42,7 @@ Vue.use(VueGtag, {
    ** 当前页的访问统计
    */
   ga('create', 'G-C2M0S2QPWX', 'auto')
-  ga('create', 'G-LG26T96L7Q', 'auto')
+  ga('create', 'G-HTJP3EPEBG', 'auto')
 }
 
 export default ({ app: { router }, store }) => {

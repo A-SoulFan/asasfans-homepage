@@ -50,7 +50,7 @@
                 <ul class="list-unstyled">
 
                 </ul><!-- /.list-unstyled -->
-                <a href="www.tennoji.xyz/48/" class="thm-btn pricing-one__btn"><span>一键下载</span></a>
+                <a href="http://www.tennoji.xyz/48/" class="thm-btn pricing-one__btn"><span>一键下载</span></a>
                 <span class="tag-line"></span>
               </div><!-- /.pricing-one__single -->
             </div><!-- /.col-lg-4 -->
