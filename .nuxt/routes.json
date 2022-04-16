@@ -1,0 +1,30 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "D:\\\\0715\\\\AsAsFans\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_1530fcc3"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "D:\\\\0715\\\\AsAsFans\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_289c9690"
+  },
+  {
+    "name": "index-2",
+    "path": "/index-2",
+    "component": "D:\\\\0715\\\\AsAsFans\\\\pages\\\\index-2.vue",
+    "chunkName": "pages/index-2",
+    "_name": "_b3ea6634"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\0715\\\\AsAsFans\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2933d801"
+  }
+]
