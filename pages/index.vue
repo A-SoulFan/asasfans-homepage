@@ -1,6 +1,7 @@
 <template>
   <div>
     <Header />
+    <!-- <Login/> -->
     <Banner />
     <Features />
     <!-- <Video /> -->
@@ -19,6 +20,7 @@
 </template>
 <script>
   import Header from "~/components/Header.vue";
+  // import Login from "~/components/Login.vue";
   import Banner from "~/components/Banner.vue";
   import Features from "~/components/Features.vue";
   import Video from "~/components/Video.vue";
@@ -36,6 +38,7 @@
   export default {
     components: {
       Header,
+      // Login,
       Banner,
       Features,
       // Video,
@@ -51,6 +54,7 @@
       // Subscribe,
       Footer,
 
-    }
+    
+        }
   }
 </script>
