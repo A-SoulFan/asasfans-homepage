@@ -7,46 +7,46 @@
       </div><!-- /.block-title -->
       <div class="app-shot-one__carousel owl-theme owl-carousel">
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-1.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-1.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-2.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-2.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-3.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-3.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-4.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-4.jpg" alt="">
         </div><!-- /.item -->
         <!-- <div class="item"> -->
           <!-- <img src="/assets/images/app-shots/app-shot-1-5.jpg" alt=""> -->
         <!-- </div>/.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-1.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-1.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-2.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-2.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-3.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-3.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-4.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-4.jpg" alt="">
         </div><!-- /.item -->
         <!-- <div class="item">
           <img src="/assets/images/app-shots/app-shot-1-5.jpg" alt="">
         </div>/.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-1.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-1.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-2.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-2.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-3.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-3.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/app-shots/app-shot-1-4.webp" alt="">
+          <img src="/assets/images/app-shots/app-shot-1-4.jpg" alt="">
         </div><!-- /.item -->
         <!-- <div class="item">
           <img src="/assets/images/app-shots/app-shot-1-5.jpg" alt="">
