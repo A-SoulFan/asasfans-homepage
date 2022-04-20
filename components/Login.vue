@@ -4,6 +4,10 @@
       <div class="avatar_box">
         <!-- <img src="../assets/logo.png"> -->
       </div>
+      <p>
+      <div class="loginPart" style="position: relative;transform: translate(36%,170%);">
+        <h2>用户登录</h2>
+      </div>
       <el-form
         :model="loginForm"
         ref="loginForm"
