@@ -9,13 +9,12 @@ import NuxtError from './components/nuxt-error.vue'
 import Nuxt from './components/nuxt.js'
 import App from './App.js'
 import { setContext, getLocation, getRouteData, normalizeError } from './utils'
-import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-chalk/index.css';
 
 /* Plugins */
 
 import nuxt_plugin_googleanalytics_4d07d1e3 from 'nuxt_plugin_googleanalytics_4d07d1e3' // Source: .\\google-analytics.js (mode: 'client')
 import nuxt_plugin_gtag_71c5e2d0 from 'nuxt_plugin_gtag_71c5e2d0' // Source: ..\\plugins\\gtag.js (mode: 'client')
+import nuxt_plugin_elementui_72a9ed1c from 'nuxt_plugin_elementui_72a9ed1c' // Source: ..\\plugins\\element-ui.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -53,7 +52,7 @@ Object.defineProperty(Vue.prototype, '$nuxt', {
   configurable: true
 })
 
-Vue.use(ElementUI,Meta, {"keyName":"head","attribute":"data-n-head","ssrAttribute":"data-n-head-ssr","tagIDKeyName":"hid"})
+Vue.use(Meta, {"keyName":"head","attribute":"data-n-head","ssrAttribute":"data-n-head-ssr","tagIDKeyName":"hid"})
 
 const defaultTransition = {"name":"page","mode":"out-in","appear":false,"appearClass":"appear","appearActiveClass":"appear-active","appearToClass":"appear-to"}
 
@@ -185,6 +184,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (process.client && typeof nuxt_plugin_gtag_71c5e2d0 === 'function') {
     await nuxt_plugin_gtag_71c5e2d0(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_elementui_72a9ed1c === 'function') {
+    await nuxt_plugin_elementui_72a9ed1c(app.context, inject)
   }
 
   // Lock enablePreview in context
