@@ -44,13 +44,13 @@
             </div><!-- /.col-lg-4 -->
             <div class=" wow fadeInUp" data-wow-duration="1500ms">
               <div class="pricing-one__single text-center">
-                <img src="https://dianawp-1256984662.cos.ap-guangzhou.myqcloud.com/wp-content/uploads/2022/03/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg?imageMogr2/thumbnail/120x120/gravity/center" style="width:86px"/>
+                <img src="https://www.xn--w4r49t8ny.com/wp-content/uploads/2022/03/20220330132632914.jpg" style="width:86px"/>
                 <p><br>
                 <p>Diana's 嘉心糖线路</p>
                 <ul class="list-unstyled">
 
                 </ul><!-- /.list-unstyled -->
-                <a href="http://www.tennoji.xyz/48/" class="thm-btn pricing-one__btn"><span>一键下载</span></a>
+                <a href="http://www.xn--w4r49t8ny.com/circle/463.html" class="thm-btn pricing-one__btn"><span>一键下载</span></a>
                 <span class="tag-line"></span>
               </div><!-- /.pricing-one__single -->
             </div><!-- /.col-lg-4 -->
